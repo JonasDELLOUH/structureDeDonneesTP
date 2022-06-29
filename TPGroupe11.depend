@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656488713 source:/home/dellouh/Bureau/codes/structures_avancees/first_struct/TPGroupe11/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
